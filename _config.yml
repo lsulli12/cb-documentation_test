@@ -69,7 +69,7 @@ content_license_link: https://creativecommons.org/licenses/by-sa/4.0/
 # ROBOTS EXCLUDE [optional!]
 #
 # set noindex to true if you do NOT want Google to index your site
-# noindex: true 
+noindex: true 
 
 
 #######
@@ -82,6 +82,6 @@ defaults:
     values:
       layout: "lesson-content"
 # ignore stuff
-exclude: [README.md, LICENSE, assets/lib/README.md]
+exclude: [README.md, LICENSE, assets/lib/README.md, intro]
 # Build settings
 markdown: kramdown
