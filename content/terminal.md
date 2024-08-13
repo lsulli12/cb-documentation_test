@@ -1,8 +1,9 @@
 ---
-section: Terminal
-nav_order: 7
-title: CollectionBuilder Terminal Commands
+nav_order: 10
+title: Terminal Commands
 ---
+Below are common terminal commands when creating, deploying, and revising CollectionBuilder. The list does not include git or other commands which can be found elsewhere (such as this [GitHub GIT CHEAT SHEET](https://education.github.com/git-cheat-sheet-education.pdf)).
+<br><br>
 
 **First time repository created**<br>
 `bundle install`<br>
@@ -15,17 +16,19 @@ A Gemfile.lock file is also created, which locks the versions of the installed g
 `bundle exec jekyll s` <br>This will start a development server on your local computer. It serves - or makes available - the html, css, javascript that creates the CB website. (Note: this is different from the documentation site, which uses `jekyll s`)
 <br><br>  
 
+**Stop Server**<br>
+`CTRL + C` <br>
+(This is the same for most command line programs.) 
+<br><br>
+
 **Deploying Final Version to Site**<br>
 When the version will be built locally and/or self-hosted, see CollectionBuilder Documentation, under [Deploy/Jekyll Build](https://collectionbuilder.github.io/cb-docs/docs/deploy/build/)  
 <br>
 
-**Stop Server**<br>
-`CTRL + C` <br>
-(This is the same for most command line programs.)  
-<br>
-
 **Additional documentation**<br>
-General information for [Generating the site](https://collectionbuilder.github.io/cb-docs/docs/repository/generate), and a video version within the [CSV Walkthrough documentation](https://collectionbuilder.github.io/cb-docs/docs/walkthroughs/csv-walkthrough/#13-run-the-bundle-exec-jekyll-serve-command-to-generate-your-site-video-version)
+- [Generating the site](https://collectionbuilder.github.io/cb-docs/docs/repository/generate)
+- [CSV Walkthrough](https://collectionbuilder.github.io/cb-docs/docs/walkthroughs/csv-walkthrough/#13-run-the-bundle-exec-jekyll-serve-command-to-generate-your-site-video-version)
+- [Video for CSV version](https://www.youtube.com/watch?v=Shqm2Uwk4K8&list=PLt9zT3xACQo6aLD8ayLFOGp5T_mEw3tMQ&index=13)  
 <br><br>
 
 
