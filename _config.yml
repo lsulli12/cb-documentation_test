@@ -11,16 +11,16 @@
 # SITE SETTINGS
 #
 # title appears in the header
-title: CollectionBuilder Documentation (LS version)
+title: CollectionBuilder Documentation (LS draft version)
 # title-icon appears in the header to give some pizazz (leave blank for none)
 # choose from Bootstrap Icons in _includes/bootstrap-icons
 # find names on https://icons.getbootstrap.com/ (or look in "_includes/bootstrap-icons")
 # some options: code-slash file-code gear tools lightblub book bookmark-star
 title-icon: code-slash
 # description appears in sidebar footer
-description: "CB documentation created by and for Laura Sullivan's work. Current version is for learning CB and GitPages simultaneously week of 7/22/2024."
+description: "Current version is for learning CB and GitPages. Some content may eventually be transferred."
 # keywords for meta tags used by search engines
-keywords: "documentation, collectionbuilder, test site"
+keywords: "documentation, collectionbuilder, ISU digital collections"
 # image for meta tags, will appear when sharing link on social media
 featured-image: "/images/uidaho-workshop.jpg"
 
